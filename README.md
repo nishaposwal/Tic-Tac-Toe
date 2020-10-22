@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-A simple tic tac toe android app
+A simple tic tac toe game android app
